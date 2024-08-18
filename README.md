@@ -1,4 +1,4 @@
-# Plain Tasks
+# Plaint Tasks
 Plain Tasks is a simple extension for keeping track of tasks directly from your code. It captures tasks from your comments and saves them to a `tasks.md` file.
 
 > **No complex setup, no unnecessary features—just straightforward task management**.
