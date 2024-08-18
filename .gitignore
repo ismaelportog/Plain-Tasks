@@ -1,0 +1,9 @@
+node_modules
+test
+.vscode
+package-lock.json
+CHANGELOG.md
+plain-tasks-0.0.1.vsix
+tasks.md
+.eslintrc.json
+.vscodeignore
