@@ -1,11 +1,11 @@
 {
-  "name": "plain-tasks",
-  "displayName": "plain-tasks",
+  "name": "plaint-tasks",
+  "displayName": "plaint-tasks",
   "description": "",
   "publisher": "ismaelporto",
   "author": "Ismael Porto",
   "repository": "https://github.com/ismaelportog/Plaint-Tasks",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.92.0"
   },
